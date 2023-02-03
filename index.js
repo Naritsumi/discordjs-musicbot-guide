@@ -66,12 +66,12 @@ client.on("interactionCreate", (interaction) => {
 // Erela.js -> music manager
 // Define some options for the node
 const nodes = [
-	{
-		host: "node1.kartadharta.xyz", // Optional if Lavalink is local
-		port: 443, // Optional if Lavalink is set to default
-		password: "kdlavalink", // Optional if Lavalink is set to default
-		secure:true
-	}
+    // If you pass a object like so the "host" property is required
+    {
+      host: "localhost", // Optional if Lavalink is local
+      port: 2333, // Optional if Lavalink is set to default
+      password: "youshallnotpass", // Optional if Lavalink is set to default
+    },
   ];
 
 // Assign Manager to the client variable
