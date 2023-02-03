@@ -31,5 +31,5 @@ In your command prompt, from inside the folder where `index.js` is located, laun
 
 * [Discord.js Documentation](http://discord.js.org).
 * [Erela.js Documentation](https://erelajs-docs.netlify.app/).
-* [Cool Zone]https://www.youtube.com/@CoolZone123).
+* [Cool Zone](https://www.youtube.com/@CoolZone123).
 * [Discord.js Official Server](https://discord.gg/bRCvFy9): The official server has a number of competent people to help you, and the development team is there too!
